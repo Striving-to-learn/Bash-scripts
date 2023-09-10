@@ -1,4 +1,4 @@
-greet1="Hello, my name is Moshe!! \n "
+greet1="Hello, my name is test!! \n "
 greet2="Nice to meet you!! "
 greet3="\n"
 greet4="Welcome to my github page"
